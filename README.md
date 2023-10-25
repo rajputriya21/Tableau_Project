@@ -1,16 +1,6 @@
 # IPL-Dataset Visualization Tableau Project
 
-IPL Data Visualisation Challenge from Machinehack.com. I have taken the IPL datset from Machinehack challenge and it has Indian Premier League cricket data from 2008 - 2017. The purpose of this challenge is to analysis and create beautiful visualization using Tableau.
+I have taken the IPL datset from CODING NINJA and it has Indian Premier League cricket data from 2008 - 2017. The purpose of this challenge is to analysis and create beautiful visualization using Tableau.
 
+The dashboards are published at : https://public.tableau.com/app/profile/riya.rajput/viz/ipldasboard_/Story1
 
-
-
-
-
-
-
-
-
-
-
-The dashboards are published at : 
